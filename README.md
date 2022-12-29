@@ -1,14 +1,14 @@
 # Multi-UAV Trajectory Optimizer: A Sustainable System for Wireless Data Harvesting with Deep Reinforcement Learning
 This repo contains research materials.
 
-## 1 agent, fixed locations of sensor nodes, 32 x 32 map
+## 1 agent, 32 x 32 map
 <img width="50%" src="https://user-images.githubusercontent.com/71582651/209935533-7d6b4db4-0f3c-4d94-908e-55c08c86a521.gif"/>
 
-## 2 agents, fixed locations of sensor nodes, 32 x 32 map
-<img width="50%" src="https://user-images.githubusercontent.com/71582651/198027731-03ea1683-e485-4414-91cb-5a474ed60b9d.gif"/>
+## 2 agents, 32 x 32 map
+<img width="50%" src="https://user-images.githubusercontent.com/71582651/209935706-a7623caf-7fd0-46b1-8ec2-46a24df2f141.gif"/>
 
-## 3 agents, fixed locations of sensor nodes, 32 x 32 map
-<img width="50%" src="https://user-images.githubusercontent.com/71582651/198028024-95ea2b0b-0b03-4a6e-8eb3-878b7aa98f08.gif"/>
+## 3 agents, 32 x 32 map
+<img width="50%" src="https://user-images.githubusercontent.com/71582651/209935742-a489563f-f87b-4bbc-98d8-019a89b0c42c.gif"/>
 
 ## 1 agent, random locations of sensor nodes, 100 x 100 map
 <img width="50%" src="https://user-images.githubusercontent.com/71582651/198028138-5bbaf593-d8ab-4cb1-91f7-799189ea0a05.gif"/>
