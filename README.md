@@ -10,11 +10,11 @@ This repo contains research materials.
 ## 3 agents, 32 x 32 map
 <img width="50%" src="https://user-images.githubusercontent.com/71582651/209935742-a489563f-f87b-4bbc-98d8-019a89b0c42c.gif"/>
 
-## 1 agent, random locations of sensor nodes, 100 x 100 map
+## 1 agent, 100 x 100 map
 <img width="50%" src="https://user-images.githubusercontent.com/71582651/198028138-5bbaf593-d8ab-4cb1-91f7-799189ea0a05.gif"/>
 
-## 3 agents, random locations of sensor nodes, 100 x 100 map
+## 3 agents, 100 x 100 map
 <img width="50%" src="https://user-images.githubusercontent.com/71582651/198929144-1f1ceaf6-dbb8-4f8a-98b7-3c3c5cb25e70.gif"/>
 
-## 3 agents, random locations of sensor nodes, 100 x 100 map, different start and charging zone
+## 3 agents, 100 x 100 map, different start and charging zone
 <img width="50%" src="https://user-images.githubusercontent.com/71582651/198028199-ffb4854b-1504-4aae-9fbe-6590b811611c.gif"/>
