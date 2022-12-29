@@ -2,7 +2,7 @@
 This repo contains research materials.
 
 ## 1 agent, fixed locations of sensor nodes, 32 x 32 map
-<img width="50%" src="https://user-images.githubusercontent.com/71582651/198019157-0ddd0d4b-7ec6-407d-b23f-36ec3f8b5ee6.gif"/>
+<img width="50%" src="https://user-images.githubusercontent.com/71582651/209935533-7d6b4db4-0f3c-4d94-908e-55c08c86a521.gif"/>
 
 ## 2 agents, fixed locations of sensor nodes, 32 x 32 map
 <img width="50%" src="https://user-images.githubusercontent.com/71582651/198027731-03ea1683-e485-4414-91cb-5a474ed60b9d.gif"/>
