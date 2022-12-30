@@ -11,7 +11,10 @@ This repo contains research materials.
 <img width="50%" src="https://user-images.githubusercontent.com/71582651/209935742-a489563f-f87b-4bbc-98d8-019a89b0c42c.gif"/>
 
 ## 1 agent, 100 x 100 map
-<img width="50%" src="https://user-images.githubusercontent.com/71582651/198028138-5bbaf593-d8ab-4cb1-91f7-799189ea0a05.gif"/>
+<img width="50%" src="https://user-images.githubusercontent.com/71582651/210050267-e104e0e4-6f27-4220-848c-ad8e75c97ef0.gif"/>
+
+## 2 agent, 100 x 100 map
+<img width="50%" src="https://user-images.githubusercontent.com/71582651/210050267-e104e0e4-6f27-4220-848c-ad8e75c97ef0.gif"/>
 
 ## 3 agents, 100 x 100 map
 <img width="50%" src="https://user-images.githubusercontent.com/71582651/198929144-1f1ceaf6-dbb8-4f8a-98b7-3c3c5cb25e70.gif"/>
