@@ -14,10 +14,10 @@ This repo contains research materials.
 <img width="50%" src="https://user-images.githubusercontent.com/71582651/210050267-e104e0e4-6f27-4220-848c-ad8e75c97ef0.gif"/>
 
 ## 2 agent, 100 x 100 map
-<img width="50%" src="https://user-images.githubusercontent.com/71582651/210050267-e104e0e4-6f27-4220-848c-ad8e75c97ef0.gif"/>
+<img width="50%" src="https://user-images.githubusercontent.com/71582651/210050356-e6a52c56-180b-4cdc-8863-76f83fdf6fc4.gif"/>
 
 ## 3 agents, 100 x 100 map
-<img width="50%" src="https://user-images.githubusercontent.com/71582651/198929144-1f1ceaf6-dbb8-4f8a-98b7-3c3c5cb25e70.gif"/>
+<img width="50%" src="https://user-images.githubusercontent.com/71582651/210050401-517abfee-14d8-458d-986e-9b86360f4d4c.gif"/>
 
 ## 3 agents, 100 x 100 map, different start and charging zone
 <img width="50%" src="https://user-images.githubusercontent.com/71582651/198028199-ffb4854b-1504-4aae-9fbe-6590b811611c.gif"/>
