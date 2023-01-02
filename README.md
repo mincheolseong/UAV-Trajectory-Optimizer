@@ -19,5 +19,8 @@ This repo contains research materials.
 ## 3 agents, 100 x 100 map
 <img width="50%" src="https://user-images.githubusercontent.com/71582651/210050401-517abfee-14d8-458d-986e-9b86360f4d4c.gif"/>
 
-## 3 agents, 100 x 100 map, different start and charging zone
-<img width="50%" src="https://user-images.githubusercontent.com/71582651/198028199-ffb4854b-1504-4aae-9fbe-6590b811611c.gif"/>
+## 2 agents, 100 x 100 map, a center start and charging zone
+<img width="50%" src="https://user-images.githubusercontent.com/71582651/210232611-7f324af7-0915-4eb8-a59d-e3b5e785ebc9.gif"/>
+
+## 3 agents, 100 x 100 map, a center start and charging zone
+<img width="50%" src="https://user-images.githubusercontent.com/71582651/210232645-6d87e4ce-cc36-44f1-9092-1a6c8552483f.gif"/>
